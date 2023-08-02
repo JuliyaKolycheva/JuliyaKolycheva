@@ -3,6 +3,7 @@
   <img src="https://pics.st/21c/d45/12bc1b52.jpg" />
 </div> 
 - 📁 This's my [Portfolio](https://)
+
 - 📝 This's my [Resume](https://)
 
 
@@ -15,7 +16,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **JuliyaKolycheva/JuliyaKolycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

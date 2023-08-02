@@ -1,10 +1,13 @@
-### Hi there 👋
+### Привет! 👋
+<div id="header">
+  <img src="https://pics.st/dec/abc/72c19dec.jpg" />
+</div> 
 
 <!--
 **JuliyaKolycheva/JuliyaKolycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📂
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

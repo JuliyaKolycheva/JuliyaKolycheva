@@ -1,6 +1,6 @@
 ### Привет! 👋
 <div id="header">
-  <img src="https://pics.st/dec/abc/72c19dec.jpg" />
+  <img src="https://pics.st/21c/d45/12bc1b52.jpg" />
 </div> 
 
 <!--

@@ -12,7 +12,7 @@
 
 - 📁 **This's my** [Portfolio](https://drive.google.com/drive/folders/1yVtq2-Xn7sjwJH1Q_Ha7U3mbcoB224RC)
 
-- 📝 **This's my** [Resume](https://)
+- 📝 **This's my** [Resume](https://drive.google.com/file/d/1H-faJKnCoxuvXwY52vFm-es4MKRnSZpL/view?usp=drive_link)
 
 
 

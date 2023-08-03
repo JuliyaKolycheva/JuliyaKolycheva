@@ -16,7 +16,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliyakolycheva&label=Profile%20views&color=0e75b6&style=flat" alt="juliyakolycheva" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,6 +38,9 @@
 ---
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliyakolycheva&label=Profile%20views&color=0e75b6&style=flat" alt="juliyakolycheva" /> </p>
 <!--
 **JuliyaKolycheva/JuliyaKolycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
